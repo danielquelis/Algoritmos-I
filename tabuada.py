@@ -1,3 +1,4 @@
+#Programa lê qual tabuada o usuário deseja consultar e retorna a tabuada solicitada.
 print("Programa de Tabuada de 1 a 10")
 n=int(input("Qual tabuada você quer consultar? "))
 i=1
