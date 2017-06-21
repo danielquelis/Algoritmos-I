@@ -1,3 +1,4 @@
+#Programa lê idade e retorna a qual categoria o usuário (atleta) pertence.
 i = int(input("Digite sua idade: "))
 if i >= 18:
     sit = "adulto"
