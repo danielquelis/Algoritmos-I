@@ -1,3 +1,4 @@
+#Programa lê 3 números inseridos pelo usuário e retorna 4 opções de operação.
 n1=int(input("Digite o primeiro número: "))
 n2=int(input("Digite o segundo número: "))
 n3=int(input("Digite o terceiro número: "))
