@@ -1,3 +1,4 @@
+#Programa lê duas notas, calcula a média e retorna o conceito atribuido à média calculada.
 n1=int(input('Digite a 1ª nota: '))
 n2=int(input('Digite a 2ª nota: '))
 m=(n1+n2)/2
