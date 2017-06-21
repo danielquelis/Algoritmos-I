@@ -1,3 +1,4 @@
+#Programa faz escolha randomica de nº numa lista de 0 a 10 e cria um jogo de advinhação onde o usuário deve acertar qual nº escolhido.
 from random import randint
 n=randint(0, 10)
 n1=int(input("Advinhe qual número estou pensando? "))
