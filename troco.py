@@ -1,3 +1,4 @@
+#Programa lê valor da conta e do pagamento e calcula o troco indicando com quantas e quais notas retornar
 conta=int(input("Digite o valor da conta :  "))
 pagamento=int(input("Digite o valor do do pagamento :  "))
 troco=pagamento-conta
