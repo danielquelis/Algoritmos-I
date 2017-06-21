@@ -1,3 +1,4 @@
+#Programa lê peso, altura e gênero do usuário, calcula o imc e informa qual a situação relacionada ao peso.
 peso = float(input("Diga qual o seu peso: "))
 altura = float(input("Diga qual a sua altura: "))
 genero = input("Qual o seu genero ?(M/F): ")
