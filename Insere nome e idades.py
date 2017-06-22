@@ -1,3 +1,4 @@
+#Programa lê nomes e idades e as insere num vetor
 nome=[]
 idade=[]
 i=0
